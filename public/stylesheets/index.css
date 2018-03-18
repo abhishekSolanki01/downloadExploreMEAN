@@ -6,7 +6,8 @@
   -o-background-size: 100% 100%;
   background-size:100% 100%;
   margin:0;
-  padding:0px;;
+  padding:0px;
+  height: 1000px;
 }
 
 .inside{
